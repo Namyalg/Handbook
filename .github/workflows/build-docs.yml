@@ -2,7 +2,6 @@ name: FLINT Handbook
 
 on:
   push:
-   branches: [ main ]
   pull_request:
     branches: [ main ]
 
